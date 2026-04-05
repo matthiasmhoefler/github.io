@@ -1,6 +1,6 @@
 # github.io
-Official author website for Matthias Hoefler - nonfiction writing, German, and American Sign Language musings.
-# [Matthias Hoefler] | Writer
+Official author website for Matthias M. Hoefler - nonfiction writing, German, and American Sign Language musings.
+# [Matthias M. Hoefler] | Writer
 
 Welcome to my corner of the web. I am a writer based in Ohio, USA whose interests include piano teaching, the Deaf community, Christianity, nonfiction about those and other topics, German and American Sign Language.
 
@@ -10,7 +10,7 @@ Welcome to my corner of the web. I am a writer based in Ohio, USA whose interest
 *  **AI:** This week I'm whipping up something based on Ethan Mollick's "Co-Intelligence."
 
 ## Current Reading
-* **Toni Morrison:** I'm taking part in the Ohio Celebrates Toni Morrison event this year. At the moment, I'm reading "Beloved" for the virtual book club put on by Literary Cleveland at the end of the month. I read "Song of Solomon" and am putting together something to present locally on the book.
+* **Toni Morrison:** I'm taking part in Ohio Celebrates Toni Morrison this year. At the moment, I'm reading "Beloved" for the virtual book club put on by Literary Cleveland at the end of April. I read "Song of Solomon" and am putting together something to present locally on the book.
 
 
 ## Contact

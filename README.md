@@ -14,7 +14,7 @@ Welcome to my corner of the web. I am a writer based in Northeast Ohio, USA, who
 
 ## Current Reading
 * **Toni Morrison:** I'm involved in the Ohio Celebrates Toni Morrison events this year. I read **Beloved** for the virtual book club put on by Literary Cleveland at the end of April. I read **Song of Solomon** and am putting together something to present on disability. Reread **Home** for the second time in preparation for the Literary Cleveland online book club on it at the end of August. I journeyed to Oberlin College and the Main Branch of the Lorain Public Library System to check out the bench they placed near the art museum and the room dedicated to Toni Morrison, respectively.
-* **American Art Collector** I'm not a collector, but I subscribe to enjoy the art they showcase.
+* **American Art Collector** I'm not a collector, but I subscribe. I enjoy the art they showcase.
 * **How to bake [pi] : an edible exploration of the mathematics of mathematics** by Eugenia Cheng. A different approach to math and specifically category theory.
 
 ## Contact
